@@ -1,0 +1,40 @@
+Estructura de los Datos de INEGI que conforman el producto MARCO GEOESTADÍSTICO, DICIEMBRE 2022
+
+
+ee_a Áreas Geoestadísticas Básicas Urbanas
+ee_ar ÁreasGeoestadísticas básicas rurales
+ee_cd Caserío disperso
+ee_e Eje de vialidad
+ee_ent Nombre geográfico de la entidad
+ee_fm Frente de manzana
+ee_l Localidad urbana y rural amanzanada
+ee_lpr Puntos de ubicación de localidades rurales
+ee_m Manzanas
+ee_mun Nombre geográfico del municipio
+ee_pe Polígono externo
+ee_pem Polígono externo de manzana
+ee_sia Servicio de área
+ee_sil Servicio de línea
+ee_sip Servicio de punto
+ee_ti Nombre geográfico del territorio insular
+
+
+Asimismo, se complementa con el presente documento contenido, el cual puntualiza las características técnicas de la información, además del archivo de presentación léeme, estos archivos se encuentran en formato pdf y txt.  
+El producto también se acompaña de los metadatos que se integran al interior de las carpetas estatales y que contienen los archivos digitales con la información cartográfica.
+
+Características técnicas de la información: 
+
+Parámetros: 
+Cónica Conforme de Lambert (CCL) 
+Dátum: ITRF2008. 
+Elipsoide: GRS80. 
+Meridiano origen: 102° 00’ 00’’ W. 
+Latitud origen: 12° 00’ 00’’ N. 
+Primer paralelo estándar: 17° 30’ N. 
+Segundo paralelo estándar: 29° 30’ N. 
+Falso Este: 2 500 000. 
+Falso Norte: 0 
+Fuente    
+La base cartográfica utilizada corresponde al MARCO GEOESTADÍSTICO, DICIEMBRE 2021.
+
+El software utilizado para la digitalización de la cartografía y generación de los archivos SHAPE fue ArcGis en su versión 10.8.1 y se puede presentar hasta 1 metro de tolerancia entre los diversos elementos del archivo vectorial.
